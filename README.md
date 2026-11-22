@@ -81,17 +81,7 @@ The models were evaluated using the following metrics:
 - **R²:** Coefficient of Determination
 - **Adjusted R²:** Adjusted Coefficient of Determination
 
-### Results
 
-Replace the following placeholders with the actual values obtained from your Google Colab output.
-
-| Metric | Simple Linear Regression | Multiple Linear Regression |
-|---|---|---|
-| MAE | [Enter value] | [Enter value] |
-| MSE | [Enter value] | [Enter value] |
-| RMSE | [Enter value] | [Enter value] |
-| R² | [Enter value] | [Enter value] |
-| Adjusted R² | [Enter value] | [Enter value] |
 
 ## User Input Prediction System
 
@@ -131,3 +121,8 @@ The final implementation provides an interactive system for predicting concrete 
 **Course:** Artificial Intelligence and Data Science
 
 **Activity:** Activity 1 – Regression Algorithms
+
+
+## GitHub Submission
+
+Submitted to: [@complexiota](https://github.com/complexiota)
